@@ -1,2 +1,2 @@
-# music-visualizer
+# Music visualizer
 Music Visualizer
